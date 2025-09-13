@@ -5,5 +5,4 @@ develop branch
 
 Hey there !
 Whts' UP
-
-it's fetch command 
+It's fetch command
